@@ -27,13 +27,15 @@ namespace WaterLogger.Pages
                 return Page();
             }
 
-            using (var connection = new SqlConnection(_configuration.GetConnectionString("ConnectionString")))
+            using (var connection = new SqlConnection(_configuration.GetConnectionString("Default")))
             {
+                string dateString = DrinkingWater.Date.ToString();
+
                 connection.Open();
                 var tableCmd = connection.CreateCommand();
                 tableCmd.CommandText =
                    @$"INSERT INTO drinking_water(date, quantity)
-                      VALUES('{DrinkingWater.Date}', {DrinkingWater.Quantity})";
+                      VALUES('{dateString}', {DrinkingWater.Quantity})";
 
                 tableCmd.ExecuteNonQuery();
             }

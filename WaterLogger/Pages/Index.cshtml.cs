@@ -35,11 +35,15 @@ public class IndexModel : PageModel
 
             while (reader.Read())
             {
+                string rawDateString = reader.GetString(1);
+                string cleanDateString = rawDateString.Replace("?", "");
+                DateTime parsedDate = DateTime.Parse(cleanDateString, CultureInfo.CurrentUICulture.DateTimeFormat);
+
                 tableData.Add(
                 new DrinkingWaterModel
                 {
                     Id = reader.GetInt32(0),
-                    Date = DateTime.Parse(reader.GetString(1), CultureInfo.CurrentUICulture.DateTimeFormat),
+                    Date = parsedDate,
                     Quantity = reader.GetInt32(2)
                 }); ;
             }
