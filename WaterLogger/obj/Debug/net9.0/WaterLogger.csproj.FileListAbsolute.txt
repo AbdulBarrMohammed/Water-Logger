@@ -96,3 +96,11 @@
 /Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/WaterLogger.pdb
 /Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/WaterLogger.genruntimeconfig.cache
 /Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/ref/WaterLogger.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/bin/Debug/net9.0/System.Data.SqlClient.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/bin/Debug/net9.0/runtimes/win-arm64/native/sni.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/bin/Debug/net9.0/runtimes/win-x64/native/sni.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/bin/Debug/net9.0/runtimes/win-x86/native/sni.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/bin/Debug/net9.0/runtimes/unix/lib/net8.0/System.Data.SqlClient.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Data.SqlClient.dll
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/WaterLogger.csproj.AssemblyReference.cache
+/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/WaterLog.6BFEBF70.Up2Date
