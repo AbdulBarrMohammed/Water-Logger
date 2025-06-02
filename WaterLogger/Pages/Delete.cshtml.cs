@@ -33,17 +33,23 @@ namespace WaterLogger.Pages
         {
             var drinkingWaterRecord = new DrinkingWaterModel();
 
-            using (var connection = new SqlConnection(_configuration.GetConnectionString("defualt")))
+            using (var connection = new SqlConnection(_configuration.GetConnectionString("Default")))
             {
                 connection.Open();
                 var tableCmD = connection.CreateCommand();
                 tableCmD.CommandText = $"SELECT * FROM drinking_water WHERE Id = {id}";
                 SqlDataReader reader = tableCmD.ExecuteReader();
 
+
+
                 while (reader.Read())
                 {
+                    string rawDateString = reader.GetString(1);
+                    string cleanDateString = rawDateString.Replace("?", "");
+                    DateTime parsedDate = DateTime.Parse(cleanDateString, CultureInfo.CurrentUICulture.DateTimeFormat);
+
                     drinkingWaterRecord.Id = reader.GetInt32(0);
-                    drinkingWaterRecord.Date = DateTime.Parse(reader.GetString(1), CultureInfo.CurrentUICulture.DateTimeFormat);
+                    drinkingWaterRecord.Date = parsedDate;
                     drinkingWaterRecord.Quantity = reader.GetInt32(2);
 
                 }
@@ -59,6 +65,8 @@ namespace WaterLogger.Pages
                 connection.Open();
                 var tableCmd = connection.CreateCommand();
                 tableCmd.CommandText = $"DELETE from drinking_water WHERE Id = {id}";
+
+                tableCmd.ExecuteNonQuery();
             }
 
             return RedirectToPage("./Index");
