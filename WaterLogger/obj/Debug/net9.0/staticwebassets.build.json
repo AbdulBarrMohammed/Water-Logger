@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/FNt0PB1yXF5kOHoKFhgIC1jOmV0ApJAy680JFF/mn8=",
+  "Hash": "akBpMJbslEk6ZSxQZC5+UyVAqCaNsFrs6k55/+eKu0w=",
   "Source": "WaterLogger",
   "BasePath": "_content/WaterLogger",
   "Mode": "Default",
@@ -605,12 +605,12 @@
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-xtxxf3hu2r.gz",
+      "Identity": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-qb3cb29syw.gz",
       "SourceId": "WaterLogger",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WaterLogger",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=qb3cb29syw}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -619,8 +619,8 @@
       "RelatedAsset": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/wwwroot/js/site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pmnrhqz0gl",
-      "Integrity": "YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=",
+      "Fingerprint": "t8i3ubwj9e",
+      "Integrity": "49Yl3T0VFb6Q0UCSCZiiKe249vWbP86cZSo7PpCCvfw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/wwwroot/js/site.js"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "qb3cb29syw",
+      "Integrity": "1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
@@ -3325,12 +3325,12 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-xtxxf3hu2r.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-qb3cb29syw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.004629629630"
         }
       ],
       "ResponseHeaders": [
@@ -3340,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "215"
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"49Yl3T0VFb6Q0UCSCZiiKe249vWbP86cZSo7PpCCvfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 21:10:10 GMT"
+          "Value": "Mon, 02 Jun 2025 17:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3368,13 +3368,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA="
         }
       ]
     },
@@ -3389,7 +3389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "318"
         },
         {
           "Name": "Content-Type",
@@ -3397,11 +3397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 21:10:10 GMT"
+          "Value": "Mon, 02 Jun 2025 17:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3411,13 +3411,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-xtxxf3hu2r.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-qb3cb29syw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3426,7 +3426,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "215"
         },
         {
           "Name": "Content-Type",
@@ -3434,11 +3434,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"49Yl3T0VFb6Q0UCSCZiiKe249vWbP86cZSo7PpCCvfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 21:10:10 GMT"
+          "Value": "Mon, 02 Jun 2025 17:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3456,18 +3456,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg="
+          "Value": "sha256-49Yl3T0VFb6Q0UCSCZiiKe249vWbP86cZSo7PpCCvfw="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-xtxxf3hu2r.gz",
+      "Route": "js/site.qb3cb29syw.js",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-qb3cb29syw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.004629629630"
         }
       ],
       "ResponseHeaders": [
@@ -3477,15 +3477,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "215"
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"49Yl3T0VFb6Q0UCSCZiiKe249vWbP86cZSo7PpCCvfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 21:10:10 GMT"
+          "Value": "Mon, 02 Jun 2025 17:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3505,13 +3505,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "qb3cb29syw"
         },
         {
           "Name": "label",
@@ -3519,12 +3519,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.qb3cb29syw.js",
       "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3534,7 +3534,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "318"
         },
         {
           "Name": "Content-Type",
@@ -3542,11 +3542,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 21:10:10 GMT"
+          "Value": "Mon, 02 Jun 2025 17:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3556,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "qb3cb29syw"
         },
         {
           "Name": "label",
@@ -3564,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1l4ANj8m0Lp+tmn483AcQZeTEygqJXd/gD5y+nqG4RA="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-xtxxf3hu2r.gz",
+      "Route": "js/site.qb3cb29syw.js.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/DotnetAcademy/WaterLogger/WaterLogger/obj/Debug/net9.0/compressed/gpvitnopeb-qb3cb29syw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3579,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "215"
         },
         {
           "Name": "Content-Type",
@@ -3587,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"49Yl3T0VFb6Q0UCSCZiiKe249vWbP86cZSo7PpCCvfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 21:10:10 GMT"
+          "Value": "Mon, 02 Jun 2025 17:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3609,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "qb3cb29syw"
         },
         {
           "Name": "label",
@@ -3617,7 +3617,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg="
+          "Value": "sha256-49Yl3T0VFb6Q0UCSCZiiKe249vWbP86cZSo7PpCCvfw="
         }
       ]
     },
